@@ -1,0 +1,55 @@
+
+erDiagram
+    SCHOOL ||--o{ CONTACT : has
+    SCHOOL ||--o{ CLUB : runs
+    CONTACT ||--o{ CLUB : leads
+    CLUB ||--o{ DELIVERABLE : contains
+
+    SCHOOL {
+        string School_Id PK
+        string School_Name
+        string School_Type
+        string State
+        string Zip
+        int Enrollment
+        string Partnership_Status
+        string Relationship_Owner
+        date Created_Date
+    }
+
+    CONTACT {
+        string Contact_Id PK
+        string School_Id FK
+        string First_Name
+        string Last_Name
+        string Email
+        string Phone
+        string Title
+        string Department
+        boolean Is_Primary_Contact
+        date Created_Date
+    }
+
+    CLUB {
+        string Club_Id PK
+        string School_Id FK
+        string Club_Name
+        string Stage
+        int Students_Served
+        date Close_Date
+        string Primary_Contact_Id FK
+        string Owner
+        date Created_Date
+    }
+
+    DELIVERABLE {
+        string Deliverable_Id PK
+        string Club_Id FK
+        string Deliverable_Name
+        string Deliverable_Type
+        string Status
+        date Due_Date
+        date Completed_Date
+        int Quantity
+        string Assigned_To
+    }
