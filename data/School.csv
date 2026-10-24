@@ -1,0 +1,101 @@
+School_Id,School_Name,School_Type,State,Zip,Enrollment,Partnership_Status,Relationship_Owner,Created_Date
+SCH-0001,Montclair Academy,Public,OH,44195,920,Active,Grace Owens,2024-05-03
+SCH-0002,Memorial Middle School,Public,NJ,08565,240,Prospect,Sam Patel,2024-10-28
+SCH-0003,Hamilton Middle School,public,CA,90219,240,Prospect,Grace Owens,2025-04-07
+SCH-0004,Harriet Tubman Community School,Magnet,NJ,08952-6133,410,Prospect,Grace Owens,2024-04-10
+SCH-0005,Heritage STEM Academy,Public,PA,15040,410,active,Priya Shah,2024-09-29
+SCH-0006,Eastside Charter School,Public,NJ,08941,320,Active,Grace Owens,2024-03-12
+SCH-0007,Central Preparatory School, Charter,NJ,08512,410,Active,Elena Novak,2024-09-07
+SCH-0008,Walt Whitman Intermediate School,Charter,GA,30169-7116,320,Active,Marcus Lee,2024-01-21
+SCH-0009,Clara Barton Charter School,Public,NJ,7336,920,PROSPECT,Elena Novak,2024-07-14
+SCH-0010,Washington STEM Academy,Public,NJ,07602,1100,Prospect,Dana Reyes,2024-07-20
+SCH-0011,Riverside Preparatory School,PRIVATE,NJ,7306,320,Active,Marcus Lee,2024-11-21
+SCH-0012,Lincoln Community School,Charter,OH,44173,640,Active,Marcus Lee,2024-11-06
+SCH-0013,Woodrow Wilson STEM Academy,Charter,TX,78786,780,Active,Tom Becker,2024-06-04
+SCH-0014,Kennedy Charter School,Magnet,NJ,08980,920,alumni ,Marcus Lee,2024-07-02
+SCH-0015,North Star Preparatory School,magnet ,TX,75048,1350,Active,Marcus Lee,2025-01-06
+SCH-0016,Gateway Middle School,Public,NJ,08917,920,Prospect,Nina Alvarez,2024-04-24
+SCH-0017,Lakeview Charter School,Public,PA,19105,1100,Alumni,Priya Shah,2024-12-05
+SCH-0018,Clara Barton Community School,Private,NY,14075,320,Active,Grace Owens,2025-01-05
+SCH-0019,Memorial Community School,Public ,CA,90024,640,Prospect,Tom Becker,2024-04-15
+SCH-0020,Brookdale Preparatory School,Public,NJ,07064,320,Prospect,Marcus Lee,2024-08-31
+SCH-0021,Woodrow Wilson Academy,Public,NJ,07337,920,Alumni,Priya Shah,2024-02-06
+SCH-0022,Clara Barton Intermediate School,Charter,NJ,07027,240,Active,Sam Patel,2025-02-27
+SCH-0023,John Adams Middle School,charter,NY,11093,1100,Alumni,Nina Alvarez,2024-11-12
+SCH-0024,Maple Avenue Middle School,Public,NY,11220,1350,Active,Grace Owens,2024-11-11
+SCH-0025,Martin Luther King Preparatory School,Public,NJ,7616,240,Prospect,Sam Patel,2024-11-19
+SCH-0026,Cherry Hill Middle School,Public,TX,78503,780,Prospect,Dana Reyes,2024-07-24
+SCH-0027,Langston Hughes Middle School,,NJ,8585,410,Prospect,Tom Becker,2024-03-23
+SCH-0028,Thomas Edison Community School,Public,NJ,7150,780,Alumni,Sam Patel,2025-03-23
+SCH-0029,Ridgewood STEM Academy,Public,NY,10099,240,Active,Nina Alvarez,2024-09-14
+SCH-0030,Rosa Parks Intermediate School,Charter,NJ,07047,410,Prospect,Grace Owens,2025-03-08
+SCH-0031,Fairview Charter School,,MA,01096,410,Active,Priya Shah,2024-02-01
+SCH-0032,Martin Luther King Academy,Public,NY,11082,320,Alumni,Sam Patel,2024-01-28
+SCH-0033,Pinebrook Middle School,Public,NJ,08669,640,Prospect,Priya Shah,2024-03-09
+SCH-0034,Rosa Parks Community School,Public,CT,06846,240,Prospect,Elena Novak,2025-03-22
+SCH-0035,Westside Preparatory School,Public,,08048,520,Alumni,Dana Reyes,2024-03-26
+SCH-0036,Westside STEM Academy,Public,GA,30361,640,Active,Tom Becker,2024-04-25
+SCH-0037,Brookdale Intermediate School,Public,OH,44120,1100,Active,Priya Shah,2025-04-14
+SCH-0038,Montclair Charter School,Charter,OH,43076,320,Active,Tom Becker,2024-02-04
+SCH-0039,Langston Hughes Community School,Public,,43008,920,Prospect,Sam Patel,2025-01-04
+SCH-0040,Glenwood STEM Academy,Public,MA,1836,180,Alumni,Marcus Lee,2025-02-21
+SCH-0041,Ridgewood Intermediate School,Public,CA,90214,240,Alumni,Grace Owens,2024-06-19
+SCH-0042,Kennedy Preparatory School,Magnet,NJ,08517,640,Active,Priya Shah,2024-10-28
+SCH-0043,Woodrow Wilson Charter School,Charter,,01862,640,Prospect,Sam Patel,2025-03-11
+SCH-0044,Eastside Intermediate School,Public,NJ,08081,780,Alumni,Nina Alvarez,2025-02-25
+SCH-0045,Franklin Academy,Public,OH,NJ081,320,Active,Nina Alvarez,2025-04-15
+SCH-0046,Maple Avenue Intermediate School,Public,NJ,07349,640,Prospect,Nina Alvarez,2025-03-07
+SCH-0047,Memorial Preparatory School,Public,CA,94643,0,Alumni,Tom Becker,2024-06-04
+SCH-0048,Lakeview Community School,Charter,MA,1031,640,Active,Sam Patel,2024-06-26
+SCH-0049,Jefferson Academy,Charter,MA,,1100,Active,Dana Reyes,2024-10-23
+SCH-0050,Gateway Academy,Charter,NJ,08093,-10,Prospect,Tom Becker,2024-01-08
+SCH-0051,Central Community School,Charter,NJ,07614,180,Alumni,Sam Patel,2024-11-07
+SCH-0052,Harriet Tubman Middle School,Public,CT,06801,640,Alumni,Elena Novak,2024-06-22
+SCH-0053,Gateway Community School,Magnet,NJ,8539,780,Prospect,Priya Shah,2024-10-14
+SCH-0054,Hamilton Academy,Charter,GA,30055,180,Prospect,Tom Becker,2025-03-07
+SCH-0055,Franklin Charter School,Private,NJ,08955,180,Alumni,Grace Owens,2024-02-14
+SCH-0056,Kennedy Academy,Public,GA,30398,180,Alumni,Nina Alvarez,2025-01-17
+SCH-0057,Kennedy Middle School,Public,NJ,7628,1100,Active,Tom Becker,2024-07-20
+SCH-0058,George Carver Preparatory School,Public,CT,06036,920,Alumni,Elena Novak,2024-01-28
+SCH-0059,Glenwood Charter School,Public,OH,44137,780,Prospect,Marcus Lee,2024-09-19
+SCH-0060,John Adams Academy,Public,MA,01164,520,Alumni,Elena Novak,2024-10-15
+SCH-0061,Hillside Academy,Public,PA,15096,520,Active,Marcus Lee,2025-05-17
+SCH-0062,Jefferson STEM Academy,Magnet,CT,06193,780,Active,Elena Novak,2024-06-03
+SCH-0063,Crossroads Charter School,Public,NY,10092,640,Alumni,Nina Alvarez,2024-10-02
+SCH-0064,Heritage Charter School,Public,NJ,08505,520,Alumni,Nina Alvarez,2025-03-19
+SCH-0065,Summit Avenue Middle School,Charter,TX,78567,180,Active,Sam Patel,2024-05-18
+SCH-0066,Gateway Charter School,Public,NJ,08695,320,Active,Priya Shah,2025-03-22
+SCH-0067,Walt Whitman Academy,Private,TX,75016,410,Active,Marcus Lee,2024-12-27
+SCH-0068,Summit Avenue Charter School,Private,NJ,7650,410,Active,Tom Becker,2025-02-05
+SCH-0069,Pinebrook Intermediate School,Public,NJ,07676,180,Active,Marcus Lee,2024-06-24
+SCH-0070,North Star Charter School,Public,NJ,07087,1350,Active,Nina Alvarez,2024-04-22
+SCH-0071,Crossroads STEM Academy,Public,NJ,7633,1350,Prospect,Marcus Lee,2024-09-25
+SCH-0072,Langston Hughes STEM Academy,Public,NJ,08603,180,Prospect,Grace Owens,2024-08-13
+SCH-0073,Martin Luther King Middle School,Charter,NY,11201,240,Alumni,Sam Patel,2025-05-20
+SCH-0074,Lakeview Preparatory School,Public,MA,01118,240,Prospect,Grace Owens,2024-02-18
+SCH-0075,Memorial STEM Academy,Public,CT,06553,1100,Prospect,Tom Becker,2024-04-17
+SCH-0076,Montclair Intermediate School,Charter,NJ,08996,180,Active,Priya Shah,2025-05-17
+SCH-0077,Washington Middle School,Public,GA,30111,180,Active,Marcus Lee,2024-12-10
+SCH-0078,Walt Whitman Community School,Private,OH,45271,240,Active,Tom Becker,2024-07-01
+SCH-0079,Langston Hughes Charter School,Public,FL,32083,180,Prospect,Elena Novak,2025-02-26
+SCH-0080,Thomas Edison Middle School,Public,NJ,08682,1350,Alumni,Nina Alvarez,2024-09-28
+SCH-0081,Pinebrook STEM Academy,Charter,CT,06548,920,Active,Elena Novak,2024-08-26
+SCH-0082,Roosevelt Community School,Public,TX,77015,920,Active,Marcus Lee,2024-01-25
+SCH-0083,Washington Academy,Public,NJ,07375,780,Alumni,Dana Reyes,2024-04-20
+SCH-0084,Brookdale Academy,Charter,NJ,08536,640,Active,Grace Owens,2024-02-28
+SCH-0085,Glenwood Academy,Public,NJ,07656,520,Alumni,Tom Becker,2024-12-06
+SCH-0086,Roosevelt Preparatory School,Public,MA,02131,320,Active,Tom Becker,2024-07-23
+SCH-0087,Pinebrook Preparatory School,Private,GA,30384,320,Alumni,Priya Shah,2024-04-26
+SCH-0088,Grover Cleveland Middle School,Charter,NJ,07348,180,Active,Tom Becker,2024-12-22
+SCH-0089,Clara Barton STEM Academy,Public,NJ,07094,640,Active,Grace Owens,2025-02-07
+SCH-0090,Cherry Hill STEM Academy,Public,NJ,7092,640,Alumni,Dana Reyes,2025-04-26
+SCH-0091,Montclair Middle School,Magnet,NJ,07062,1100,Active,Elena Novak,2025-02-09
+SCH-0092,Grover Cleveland Community School,Public,NJ,08090,180,Active,Priya Shah,2025-01-29
+SCH-0093,North Star Middle School,Private,NJ,08563,1350,Prospect,Marcus Lee,2024-10-12
+SCH-0094,George Carver Academy,Public,PA,19018,520,Prospect,Marcus Lee,2024-07-16
+SCH-0095,Lakeview STEM Academy,Public,TX,75062,410,Prospect,Nina Alvarez,2024-12-04
+SCH-0096,Montclair Preparatory School,Public,NY,10049,520,Active,Grace Owens,2024-01-24
+SCH-0097,Cherry Hill Academy,Public,NY,11001,240,Active,Nina Alvarez,2024-09-19
+SCH-0098,Lincoln STEM Academy,Public,NJ,07098,240,Active,Dana Reyes,2024-03-31
+SCH-0099,Woodrow Wilson Intermediate School,Charter,CT,06046,920,Alumni,Marcus Lee,2024-03-03
+SCH-0100,Martin Luther King Community School,Magnet,NJ,07019,1350,Alumni,Priya Shah,2024-12-02

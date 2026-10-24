@@ -1,0 +1,201 @@
+Club_Id,School_Id,Club_Name,Stage,Students_Served,Close_Date,Primary_Contact_Id,Owner,Created_Date
+CLB-0001,SCH-0004,Harriet Tubman Community School Coding Club 2024,Proposal,8,2024-12-29,CON-0015,Priya Shah,2024-12-17
+CLB-0002,SCH-0005,Heritage STEM Academy STEM Club 2025,closed won,32,2026-01-28,CON-0018,Priya Shah,2025-01-25
+CLB-0003,SCH-0005,Heritage STEM Academy Science Club 2024,Proposal,24,2026-08-18,CON-0018,Priya Shah,2024-12-16
+CLB-0004,SCH-0006,Eastside Charter School Engineering Club 2025,Qualification,15,2026-05-20,CON-0020,Grace Owens,2025-12-07
+CLB-0005,SCH-0006,Eastside Charter School Engineering Club 2025,Closed Won,24,2026-04-16,CON-0019,Grace Owens,2025-09-13
+CLB-0006,SCH-0006,Eastside Charter School STEM Club 2025,Proposal,32,2026-08-26,CON-0021,Sam Patel,2025-03-26
+CLB-0007,SCH-0006,Eastside Charter School Math Club 2025,Prospecting,18,5/7/2026,CON-0021,Grace Owens,2025-01-04
+CLB-0008,SCH-0007,Central Preparatory School Robotics Club 2025,Negotiation,12,2026-06-25,CON-0024,Dana Reyes,2025-10-24
+CLB-0009,SCH-0008,Walt Whitman Intermediate School Math Club 2024,Proposal,15,2025-12-10,CON-0029,Marcus Lee,2024-12-24
+CLB-0010,SCH-0008,Walt Whitman Intermediate School Math Club 2024,ClosedWon,45,2025-09-21,CON-0030,Tom Becker,2024-09-24
+CLB-0011,SCH-0008,Walt Whitman Intermediate School Science Club 2024,Proposal,8,2024-08-17,CON-0027,Marcus Lee,2024-03-27
+CLB-0012,SCH-0008,Walt Whitman Intermediate School Science Club 2026,Negotiation,-5,2027-01-20,CON-0030,Grace Owens,2026-05-08
+CLB-0013,SCH-0008,Walt Whitman Intermediate School Coding Club 2024,Qualification,10,2025-07-15,CON-0027,Marcus Lee,2024-05-14
+CLB-0014,SCH-0009,Clara Barton Charter School Math Club 2025,Closed Won,45,2026-07-05,CON-0033,Elena Novak,2025-12-23
+CLB-0015,SCH-0010,Washington STEM Academy STEM Club 2024,Negotiation,20,12/28/2025,CON-0036,Dana Reyes,2024-09-21
+CLB-0016,SCH-0010,Washington STEM Academy Math Club 2025,Prospecting,15,2025-12-19,CON-0034,Dana Reyes,2025-12-14
+CLB-0017,SCH-0010,Washington STEM Academy Coding Club 2024,Prospecting,20,2025-03-16,CON-0036,Dana Reyes,2024-07-23
+CLB-0018,SCH-0010,Washington STEM Academy Coding Club 2026,Proposal,32,2026-08-28,CON-0036,Dana Reyes,2026-01-23
+CLB-0019,SCH-0011,Riverside Preparatory School Robotics Club 2025,Closed Won,18,2026-09-20,CON-0037,Marcus Lee,2025-02-15
+CLB-0020,SCH-0012,Lincoln Community School Math Club 2025,Qualification,18,2026-10-03,CON-0041,Marcus Lee,2025-04-07
+CLB-0021,SCH-0012,Lincoln Community School Robotics Club 2025,Closed  Won,32,2026-08-23,CON-0039,Marcus Lee,2025-11-11
+CLB-0022,SCH-0013,Woodrow Wilson STEM Academy STEM Club 2024,Closed Won,45,2026-12-27,CON-0044,Tom Becker,2024-09-01
+CLB-0023,SCH-0013,Woodrow Wilson STEM Academy Math Club 2025,Qualification,45,2026-04-05,CON-0044,Tom Becker,2025-12-11
+CLB-0024,SCH-0013,Woodrow Wilson STEM Academy Coding Club 2025,Prospecting,40,3/5/2025,CON-0044,Dana Reyes,2025-01-16
+CLB-0025,SCH-0013,Woodrow Wilson STEM Academy STEM Club 2025,Qualification,10,2026-08-17,CON-0043,Tom Becker,2025-08-31
+CLB-0026,SCH-0014,Kennedy Charter School Robotics Club 2025,Qualification,20,2026-01-01,CON-0047,Marcus Lee,2025-05-19
+CLB-0027,SCH-0014,Kennedy Charter School Science Club 2026,Closed Won,45,2026-07-01,CON-0046,Elena Novak,2026-01-03
+CLB-0028,SCH-0015,North Star Preparatory School Robotics Club 2026,Closed Won,0,2026-05-11,CON-0049,Marcus Lee,2026-01-02
+CLB-0029,SCH-0016,Gateway Middle School Engineering Club 2025,Closed Lost,8,2026-02-19,CON-0051,Tom Becker,2025-12-11
+CLB-0030,SCH-0016,Gateway Middle School Coding Club 2025,Proposal,12,2026-10-17,CON-0052,Nina Alvarez,2025-10-29
+CLB-0031,SCH-0017,Lakeview Charter School Science Club 2025,Negotiation,28,2026-04-14,CON-0055,Elena Novak,2025-03-13
+CLB-0032,SCH-0017,Lakeview Charter School STEM Club 2026,Closed Lost,28,2026-08-24,CON-0055,Priya Shah,2026-01-19
+CLB-0033,SCH-0017,Lakeview Charter School Engineering Club 2025,PROSPECTING,8,2025-12-11,CON-0053,Priya Shah,2025-10-30
+CLB-0034,SCH-0018,Clara Barton Community School Math Club 2025,Closed Lost,18,2026-04-09,CON-0056,Grace Owens,2025-07-23
+CLB-0035,SCH-0018,Clara Barton Community School Engineering Club 2025,Prospecting,20,2026-02-08,CON-0056,Priya Shah,2025-09-18
+CLB-0036,SCH-0018,Clara Barton Community School Robotics Club 2025,Closed Lost,24,2026-06-02,CON-0056,Tom Becker,2025-05-14
+CLB-0037,SCH-0018,Clara Barton Community School STEM Club 2025,Prospecting,40,2026-12-01,CON-0058,Grace Owens,2025-08-09
+CLB-0038,SCH-0018,Clara Barton Community School Science Club 2026,Closed Won,8,2026-08-02,CON-0057,Dana Reyes,2026-04-01
+CLB-0039,SCH-0019,Memorial Community School STEM Club 2025,Qualification,45,2026-04-04,CON-0059,Tom Becker,2025-05-30
+CLB-0040,SCH-0019,Memorial Community School Robotics Club 2025,Closed Lost,15,2025-11-15,CON-0001,Tom Becker,2025-05-02
+CLB-0041,SCH-0019,Memorial Community School STEM Club 2024,Closed Won,24,2026-08-27,CON-0061,Tom Becker,2024-08-25
+CLB-0042,SCH-0019,Memorial Community School Robotics Club 2024,Closed Won,28,2025-07-26,CON-0059,Tom Becker,2024-07-24
+CLB-0043,SCH-0020,Brookdale Preparatory School Robotics Club 2025,Closed Lost,20,2026-02-12,CON-0063,Marcus Lee,2025-08-11
+CLB-0044,SCH-0020,Brookdale Preparatory School Coding Club 2024,Prospecting,18,2025-10-14,CON-0063,Nina Alvarez,2024-10-10
+CLB-0045,SCH-0020,Brookdale Preparatory School Science Club 2024,Closed Won,15,2025-09-05,CON-0064,Marcus Lee,2024-10-02
+CLB-0046,SCH-0020,Brookdale Preparatory School Robotics Club 2026,Negotiation,20,2026-09-10,CON-0063,Marcus Lee,2026-03-11
+CLB-0047,SCH-0020,Brookdale Preparatory School Math Club 2025,Closed Won,28,2025-11-05,CON-0062,Marcus Lee,2025-06-17
+CLB-0048,SCH-0021,Woodrow Wilson Academy Science Club 2024,Qualification,32,2024-06-21,CON-0066,Elena Novak,2024-05-01
+CLB-0049,SCH-0021,Woodrow Wilson Academy Math Club 2025,Closed Won,18,2026-10-12,CON-0068,Priya Shah,2025-11-11
+CLB-0050,SCH-0021,Woodrow Wilson Academy Coding Club 2026,Negotiation,24,2026-12-16,CON-0067,Dana Reyes,2026-03-09
+CLB-0051,SCH-0022,Clara Barton Intermediate School Science Club 2025,Closed Lost,40,2026-03-06,CON-0070,Grace Owens,2025-12-25
+CLB-0052,SCH-0022,Clara Barton Intermediate School Math Club 2025,Prospecting,10,2026-05-06,CON-0071,Sam Patel,2025-03-10
+CLB-0053,SCH-0022,Clara Barton Intermediate School Science Club 2025,Closed Lost,40,2026-06-18,CON-0071,Sam Patel,2025-02-28
+CLB-0054,SCH-0023,John Adams Middle School Science Club 2025,Closed Lost,18,2025-12-13,CON-0072,Nina Alvarez,2025-01-03
+CLB-0055,SCH-0023,John Adams Middle School Engineering Club 2025,Proposal,45,2026-02-23,CON-0073,Nina Alvarez,2025-10-07
+CLB-0056,SCH-0024,Maple Avenue Middle School Science Club 2025,Prospecting,15,2025-10-04,CON-0077,Grace Owens,2025-02-20
+CLB-0057,SCH-0024,Maple Avenue Middle School Math Club 2025,Closed Won,45,2026-01-21,CON-0076,Grace Owens,2025-05-16
+CLB-0058,SCH-0024,Maple Avenue Middle School Robotics Club 2024,Proposal,18,2025-04-01,CON-0077,Sam Patel,2024-11-12
+CLB-0059,SCH-0024,Maple Avenue Middle School Science Club 2025,Qualification,12,2026-09-09,CON-0076,Grace Owens,2025-11-17
+CLB-0060,SCH-0027,Langston Hughes Middle School STEM Club 2025,Prospecting,8,2025-10-22,CON-0089,Tom Becker,2025-01-28
+CLB-0061,SCH-0027,Langston Hughes Middle School Math Club 2026,Closed Won,45,2026-04-17,CON-0089,Tom Becker,2026-03-21
+CLB-0062,SCH-0028,Thomas Edison Community School Engineering Club 2026,Prospecting,15,2026-08-14,CON-0090,Sam Patel,2026-02-08
+CLB-0063,SCH-0028,Thomas Edison Community School Math Club 2025,Closed Lost,40,2026-07-27,CON-0091,Marcus Lee,2025-09-11
+CLB-0064,SCH-0032,Martin Luther King Academy STEM Club 2024,Prospecting,24,2026-07-26,CON-0098,Sam Patel,2024-06-26
+CLB-0065,SCH-0032,Martin Luther King Academy Coding Club 2024,Negotiation,40,2026-07-31,CON-0098,Sam Patel,2024-09-09
+CLB-0066,SCH-0033,Pinebrook Middle School Coding Club 2024,Prospecting,18,2025-05-28,CON-0099,Nina Alvarez,2024-12-18
+CLB-0067,SCH-0033,Pinebrook Middle School Coding Club 2025,Closed Lost,28,2026-09-18,CON-0099,Priya Shah,2025-10-26
+CLB-0068,SCH-0034,Rosa Parks Community School Robotics Club 2025,Proposal,32,2026-09-12,CON-0102,Elena Novak,2025-10-18
+CLB-0069,SCH-0034,Rosa Parks Community School STEM Club 2025,Closed Lost,20,2025-10-23,CON-0102,Elena Novak,2025-07-13
+CLB-0070,SCH-0035,Westside Preparatory School Engineering Club 2025,Prospecting,28,2026-08-13,CON-0104,Dana Reyes,2025-08-19
+CLB-0071,SCH-0035,Westside Preparatory School Engineering Club 2024,Qualification,32,2026-04-24,CON-0104,Dana Reyes,2024-09-01
+CLB-0072,SCH-0036,Westside STEM Academy Robotics Club 2026,Closed Lost,32,2027-01-07,CON-0111,Tom Becker,2026-01-23
+CLB-0073,SCH-0037,Brookdale Intermediate School Math Club 2026,Qualification,45,2026-06-24,CON-0112,Priya Shah,2026-02-26
+CLB-0074,SCH-0037,Brookdale Intermediate School STEM Club 2025,Closed Won,12,2026-09-22,CON-0114,Grace Owens,2025-09-28
+CLB-0075,SCH-0037,Brookdale Intermediate School STEM Club 2025,Proposal,45,2026-05-29,CON-0113,Priya Shah,2025-08-13
+CLB-0076,SCH-0037,Brookdale Intermediate School Engineering Club 2026,Closed Lost,24,2026-05-20,CON-0113,Priya Shah,2026-04-22
+CLB-0077,SCH-0038,Montclair Charter School Math Club 2024,Closed Lost,32,2024-10-27,CON-0115,Tom Becker,2024-09-06
+CLB-0078,SCH-0038,Montclair Charter School Science Club 2025,Prospecting,28,2026-08-07,CON-0117,Tom Becker,2025-08-26
+CLB-0079,SCH-0038,Montclair Charter School Engineering Club 2024,Qualification,40,2024-12-11,CON-0117,Tom Becker,2024-02-26
+CLB-0080,SCH-0039,Langston Hughes Community School Engineering Club 2025,Closed Lost,20,2026-12-23,CON-0119,Elena Novak,2025-11-10
+CLB-0081,SCH-0039,Langston Hughes Community School Engineering Club 2026,Prospecting,8,2026-12-07,CON-0119,Marcus Lee,2026-01-22
+CLB-0082,SCH-0040,Glenwood STEM Academy STEM Club 2026,Prospecting,45,2026-04-13,CON-0121,Marcus Lee,2026-02-16
+CLB-0083,SCH-0040,Glenwood STEM Academy Robotics Club 2026,Qualification,45,2026-03-11,CON-0121,Elena Novak,2026-01-02
+CLB-0084,SCH-0041,Ridgewood Intermediate School Robotics Club 2024,Proposal,28,2026-08-22,CON-0127,Marcus Lee,2024-09-09
+CLB-0085,SCH-0041,Ridgewood Intermediate School Robotics Club 2024,Negotiation,45,2024-12-26,CON-0126,Grace Owens,2024-09-11
+CLB-0086,SCH-0041,Ridgewood Intermediate School Robotics Club 2025,Prospecting,8,2026-08-22,CON-0127,Grace Owens,2025-12-31
+CLB-0087,SCH-0041,Ridgewood Intermediate School Math Club 2024,Closed Won,20,2025-05-04,CON-0127,Elena Novak,2024-09-12
+CLB-0088,SCH-0041,Ridgewood Intermediate School Robotics Club 2025,Proposal,28,2026-12-13,CON-0128,Grace Owens,2025-10-18
+CLB-0089,SCH-0042,Kennedy Preparatory School Coding Club 2025,Closed Won,40,2025-05-23,CON-0130,Sam Patel,2025-03-24
+CLB-0090,SCH-0042,Kennedy Preparatory School Engineering Club 2025,Closed Won,15,2025-08-25,CON-0129,Marcus Lee,2025-01-29
+CLB-0091,SCH-0042,Kennedy Preparatory School Coding Club 2025,Prospecting,10,2026-01-12,CON-0129,Priya Shah,2025-05-12
+CLB-0092,SCH-0043,Woodrow Wilson Charter School Robotics Club 2025,Qualification,32,2026-02-25,CON-0131,Sam Patel,2025-09-03
+CLB-0093,SCH-0043,Woodrow Wilson Charter School Engineering Club 2026,Proposal,28,2026-07-29,CON-0131,Tom Becker,2026-05-13
+CLB-0094,SCH-0043,Woodrow Wilson Charter School STEM Club 2025,Negotiation,45,2026-09-26,CON-0133,Sam Patel,2025-07-26
+CLB-0095,SCH-0044,Eastside Intermediate School Coding Club 2025,Qualification,24,2027-01-24,CON-0135,Nina Alvarez,2025-06-20
+CLB-0096,SCH-0044,Eastside Intermediate School Science Club 2025,Qualification,12,2026-02-10,CON-0135,Grace Owens,2025-04-25
+CLB-0097,SCH-0045,Franklin Academy Science Club 2025,Negotiation,40,2027-01-06,CON-0137,Priya Shah,2025-08-13
+CLB-0098,SCH-0045,Franklin Academy Math Club 2025,Negotiation,24,2026-11-19,CON-0138,Nina Alvarez,2025-11-17
+CLB-0099,SCH-0045,Franklin Academy Robotics Club 2026,Proposal,10,2026-12-23,CON-0138,Nina Alvarez,2026-01-18
+CLB-0100,SCH-0046,Maple Avenue Intermediate School Engineering Club 2025,Prospecting,12,2026-06-18,CON-0141,Tom Becker,2025-08-15
+CLB-0101,SCH-0046,Maple Avenue Intermediate School Science Club 2026,Proposal,24,2027-01-23,CON-0141,Nina Alvarez,2026-01-13
+CLB-0102,SCH-0047,Memorial Preparatory School Engineering Club 2024,Negotiation,10,2025-02-12,CON-0143,Tom Becker,2024-11-15
+CLB-0103,SCH-0048,Lakeview Community School Engineering Club 2025,Prospecting,40,2025-11-16,CON-0148,Sam Patel,2025-05-15
+CLB-0104,SCH-0048,Lakeview Community School Math Club 2025,Proposal,8,2027-01-18,CON-0149,Dana Reyes,2025-11-22
+CLB-0105,SCH-0049,Jefferson Academy Robotics Club 2026,Negotiation,8,2026-09-30,CON-0151,Dana Reyes,2026-01-10
+CLB-0106,SCH-0049,Jefferson Academy Science Club 2025,Prospecting,18,2025-11-12,CON-0154,Dana Reyes,2025-08-31
+CLB-0107,SCH-0049,Jefferson Academy STEM Club 2025,Closed Won,20,2027-01-08,CON-0154,Dana Reyes,2025-12-20
+CLB-0108,SCH-0049,Jefferson Academy Engineering Club 2025,Qualification,12,2026-10-04,CON-0154,Tom Becker,2025-11-21
+CLB-0109,SCH-0050,Gateway Academy Math Club 2025,Closed Won,8,2025-08-12,CON-0155,Tom Becker,2025-08-09
+CLB-0110,SCH-0050,Gateway Academy Engineering Club 2025,Prospecting,12,2026-11-05,CON-0156,Sam Patel,2025-11-08
+CLB-0111,SCH-0051,Central Community School Math Club 2025,Closed Won,8,2026-01-04,CON-0161,Elena Novak,2025-07-05
+CLB-0112,SCH-0051,Central Community School Robotics Club 2025,Prospecting,8,2026-02-27,CON-0161,Sam Patel,2025-08-17
+CLB-0113,SCH-0052,Harriet Tubman Middle School STEM Club 2026,Prospecting,18,2026-06-19,CON-0164,Sam Patel,2026-02-26
+CLB-0114,SCH-0052,Harriet Tubman Middle School Robotics Club 2026,Qualification,18,2026-07-21,CON-0164,Grace Owens,2026-03-14
+CLB-0115,SCH-0052,Harriet Tubman Middle School STEM Club 2024,Prospecting,28,2025-05-08,CON-0162,Elena Novak,2024-10-24
+CLB-0116,SCH-0053,Gateway Community School Robotics Club 2024,Proposal,18,2026-08-04,CON-0166,Priya Shah,2024-12-13
+CLB-0117,SCH-0053,Gateway Community School Robotics Club 2025,Qualification,28,2026-09-03,CON-0168,Priya Shah,2025-07-15
+CLB-0118,SCH-0054,Hamilton Academy STEM Club 2026,Qualification,8,2026-05-17,CON-0173,Tom Becker,2026-02-21
+CLB-0119,SCH-0055,Franklin Charter School Coding Club 2025,Closed Won,10,2025-11-02,CON-0175,Grace Owens,2025-07-16
+CLB-0120,SCH-0055,Franklin Charter School Coding Club 2025,Negotiation,32,2025-10-01,CON-0175,Grace Owens,2025-03-19
+CLB-0121,SCH-0055,Franklin Charter School Math Club 2024,Closed Lost,20,2026-02-13,CON-0175,Grace Owens,2024-02-22
+CLB-0122,SCH-0056,Kennedy Academy STEM Club 2025,Negotiation,32,2026-12-12,CON-0176,Nina Alvarez,2025-07-26
+CLB-0123,SCH-0057,Kennedy Middle School Science Club 2025,Qualification,18,2026-06-13,CON-0180,Dana Reyes,2025-07-28
+CLB-0124,SCH-0057,Kennedy Middle School Coding Club 2025,Closed Won,12,2025-05-23,CON-0180,Tom Becker,2025-03-01
+CLB-0125,SCH-0057,Kennedy Middle School Coding Club 2025,Closed Lost,12,2027-01-08,CON-0179,Tom Becker,2025-12-02
+CLB-0126,SCH-0057,Kennedy Middle School Engineering Club 2025,Closed Won,32,2025-08-06,CON-0180,Tom Becker,2025-03-04
+CLB-0127,SCH-0057,Kennedy Middle School STEM Club 2025,Closed Lost,28,2026-09-29,CON-0179,Tom Becker,2025-07-03
+CLB-0128,SCH-0057,Kennedy Middle School Math Club 2025,Proposal,12,2025-05-21,CON-0179,Tom Becker,2025-02-22
+CLB-0129,SCH-0058,George Carver Preparatory School Robotics Club 2025,Qualification,45,2026-03-21,CON-0181,Elena Novak,2025-10-09
+CLB-0130,SCH-0058,George Carver Preparatory School Science Club 2024,Qualification,10,2025-02-16,CON-0183,Elena Novak,2024-11-02
+CLB-0131,SCH-0059,Glenwood Charter School Science Club 2025,Closed Won,32,2025-12-22,CON-0184,Marcus Lee,2025-03-16
+CLB-0132,SCH-0059,Glenwood Charter School STEM Club 2025,Closed Won,18,2025-11-28,CON-0185,Marcus Lee,2025-03-24
+CLB-0133,SCH-0059,Glenwood Charter School Coding Club 2025,Prospecting,10,2025-11-25,CON-0187,Marcus Lee,2025-06-06
+CLB-0134,SCH-0062,Jefferson STEM Academy Engineering Club 2024,Prospecting,28,2025-12-23,CON-0192,Tom Becker,2024-06-27
+CLB-0135,SCH-0062,Jefferson STEM Academy Robotics Club 2025,Proposal,12,2025-07-24,CON-0193,Elena Novak,2025-03-15
+CLB-0136,SCH-0063,Crossroads Charter School Coding Club 2026,Closed Lost,45,2026-02-07,CON-0194,Grace Owens,2026-01-09
+CLB-0137,SCH-0063,Crossroads Charter School STEM Club 2025,Closed Lost,40,2025-03-19,CON-0196,Nina Alvarez,2025-01-11
+CLB-0138,SCH-0063,Crossroads Charter School STEM Club 2025,Negotiation,28,2025-12-21,CON-0195,Nina Alvarez,2025-08-03
+CLB-0139,SCH-0063,Crossroads Charter School STEM Club 2025,Closed Won,8,2025-12-16,CON-0196,Nina Alvarez,2025-09-11
+CLB-0140,SCH-0066,Gateway Charter School Coding Club 2026,Qualification,45,2027-01-17,CON-0197,Priya Shah,2026-06-01
+CLB-0141,SCH-0067,Walt Whitman Academy Robotics Club 2024,Prospecting,40,2026-01-12,CON-0202,Nina Alvarez,2024-12-27
+CLB-0142,SCH-0067,Walt Whitman Academy STEM Club 2025,Closed Won,18,2026-11-15,CON-0200,Marcus Lee,2025-04-09
+CLB-0143,SCH-0068,Summit Avenue Charter School STEM Club 2025,Prospecting,45,2025-03-13,CON-0207,Tom Becker,2025-03-13
+CLB-0144,SCH-0068,Summit Avenue Charter School Math Club 2025,Negotiation,28,2026-05-06,CON-0204,Sam Patel,2025-05-16
+CLB-0145,SCH-0069,Pinebrook Intermediate School Coding Club 2025,Qualification,20,2026-08-30,CON-0211,Grace Owens,2025-10-10
+CLB-0146,SCH-0069,Pinebrook Intermediate School Engineering Club 2026,Prospecting,15,2026-11-12,CON-0211,Marcus Lee,2026-05-03
+CLB-0147,SCH-0069,Pinebrook Intermediate School Coding Club 2025,Qualification,28,2026-07-18,CON-0209,Marcus Lee,2025-11-04
+CLB-0148,SCH-0069,Pinebrook Intermediate School Engineering Club 2025,Qualification,8,2026-09-15,CON-0208,Sam Patel,2025-01-02
+CLB-0149,SCH-0070,North Star Charter School STEM Club 2025,Prospecting,24,2026-06-26,CON-0214,Marcus Lee,2025-10-30
+CLB-0150,SCH-0072,Langston Hughes STEM Academy Robotics Club 2026,Closed Won,18,2026-11-11,CON-0218,Grace Owens,2026-03-23
+CLB-0151,SCH-0072,Langston Hughes STEM Academy Coding Club 2024,Qualification,12,2026-06-30,CON-0218,Grace Owens,2024-11-28
+CLB-0152,SCH-0072,Langston Hughes STEM Academy Robotics Club 2025,Closed Lost,20,2026-08-09,CON-0218,Tom Becker,2025-10-01
+CLB-0153,SCH-0072,Langston Hughes STEM Academy Math Club 2025,Closed Lost,18,2026-01-21,CON-0218,Grace Owens,2025-07-02
+CLB-0154,SCH-0074,Lakeview Preparatory School Engineering Club 2025,Proposal,20,2025-10-07,CON-0220,Grace Owens,2025-08-13
+CLB-0155,SCH-0074,Lakeview Preparatory School Science Club 2024,Prospecting,20,2025-12-13,CON-0219,Grace Owens,2024-09-12
+CLB-0156,SCH-0074,Lakeview Preparatory School STEM Club 2026,Qualification,20,2026-12-25,CON-0219,Grace Owens,2026-05-08
+CLB-0157,SCH-0075,Memorial STEM Academy Coding Club 2024,Negotiation,8,2024-11-29,CON-0224,Tom Becker,2024-10-22
+CLB-0158,SCH-0075,Memorial STEM Academy Math Club 2025,Closed Won,10,2026-02-12,CON-0226,Tom Becker,2025-02-14
+CLB-0159,SCH-0076,Montclair Intermediate School Robotics Club 2025,Proposal,24,2026-12-14,CON-0228,Priya Shah,2025-12-14
+CLB-0160,SCH-0076,Montclair Intermediate School Math Club 2026,Closed Won,40,2026-07-05,CON-0228,Grace Owens,2026-04-07
+CLB-0161,SCH-0077,Washington Middle School Engineering Club 2025,Closed Won,40,2026-08-05,CON-0230,Marcus Lee,2025-01-28
+CLB-0162,SCH-0077,Washington Middle School Engineering Club 2025,Closed Lost,10,2026-05-31,CON-0230,Marcus Lee,2025-01-01
+CLB-0163,SCH-0077,Washington Middle School Science Club 2025,Negotiation,10,2025-11-27,CON-0232,Marcus Lee,2025-08-09
+CLB-0164,SCH-0078,Walt Whitman Community School Math Club 2025,Negotiation,45,2026-02-21,CON-0234,Tom Becker,2025-02-12
+CLB-0165,SCH-0078,Walt Whitman Community School Engineering Club 2025,Proposal,45,2025-08-11,CON-0233,Tom Becker,2025-03-31
+CLB-0166,SCH-0078,Walt Whitman Community School Robotics Club 2026,Qualification,12,2026-05-04,CON-0234,Tom Becker,2026-04-12
+CLB-0167,SCH-0080,Thomas Edison Middle School Science Club 2026,Proposal,10,2026-05-27,CON-0236,Grace Owens,2026-05-02
+CLB-0168,SCH-0080,Thomas Edison Middle School Coding Club 2026,Qualification,18,2026-06-11,CON-0236,Tom Becker,2026-04-07
+CLB-0169,SCH-0080,Thomas Edison Middle School Science Club 2024,Proposal,40,2027-01-02,CON-0236,Nina Alvarez,2024-10-31
+CLB-0170,SCH-0081,Pinebrook STEM Academy Robotics Club 2025,Qualification,20,2025-11-19,CON-0238,Elena Novak,2025-06-11
+CLB-0171,SCH-0081,Pinebrook STEM Academy Math Club 2026,Closed Lost,12,2026-10-14,CON-0238,Grace Owens,2026-01-23
+CLB-0172,SCH-0081,Pinebrook STEM Academy Math Club 2025,Closed Won,18,2026-08-01,CON-0238,Elena Novak,2025-04-29
+CLB-0173,SCH-0082,Roosevelt Community School Robotics Club 2024,Prospecting,8,2025-03-10,CON-0239,Tom Becker,2024-04-27
+CLB-0174,SCH-0082,Roosevelt Community School Coding Club 2024,Proposal,12,2024-08-11,CON-0240,Marcus Lee,2024-05-30
+CLB-0175,SCH-0083,Washington Academy Science Club 2024,Closed Won,18,2025-03-27,CON-0244,Dana Reyes,2024-05-07
+CLB-0176,SCH-0084,Brookdale Academy STEM Club 2025,Prospecting,40,2026-01-10,CON-0247,Marcus Lee,2025-03-18
+CLB-0177,SCH-0084,Brookdale Academy STEM Club 2025,Qualification,32,2026-10-27,CON-0247,Nina Alvarez,2025-02-21
+CLB-0178,SCH-0085,Glenwood Academy Engineering Club 2025,Closed Won,20,2026-12-27,CON-0253,Tom Becker,2025-12-05
+CLB-0179,SCH-0085,Glenwood Academy Math Club 2025,Qualification,28,2025-11-16,CON-0251,Sam Patel,2025-05-06
+CLB-0180,SCH-0088,Grover Cleveland Middle School STEM Club 2025,Closed Lost,18,2026-05-13,CON-0260,Tom Becker,2025-08-14
+CLB-0181,SCH-0088,Grover Cleveland Middle School Science Club 2025,Closed Won,18,2026-06-21,CON-0262,Grace Owens,2025-02-22
+CLB-0182,SCH-0088,Grover Cleveland Middle School Math Club 2025,Prospecting,45,2026-09-04,CON-0261,Tom Becker,2025-09-19
+CLB-0183,SCH-0089,Clara Barton STEM Academy Robotics Club 2025,Proposal,18,2026-08-29,CON-0263,Grace Owens,2025-05-07
+CLB-0184,SCH-0089,Clara Barton STEM Academy Robotics Club 2026,Prospecting,28,2026-10-15,CON-0264,Grace Owens,2026-05-15
+CLB-0185,SCH-0090,Cherry Hill STEM Academy Coding Club 2025,Closed Won,8,2026-07-23,CON-0268,Dana Reyes,2025-11-14
+CLB-0186,SCH-0091,Montclair Middle School Science Club 2025,Prospecting,20,2025-07-17,CON-0270,Elena Novak,2025-02-15
+CLB-0187,SCH-0094,George Carver Academy Coding Club 2025,Qualification,10,2026-05-13,CON-0280,Marcus Lee,2025-06-09
+CLB-0188,SCH-0094,George Carver Academy Coding Club 2025,Closed Lost,45,2026-04-09,CON-0280,Marcus Lee,2025-07-14
+CLB-0189,SCH-0095,Lakeview STEM Academy Math Club 2025,Closed Lost,20,2027-01-28,CON-0281,Nina Alvarez,2025-10-13
+CLB-0190,SCH-0095,Lakeview STEM Academy Math Club 2025,Closed Won,40,2026-10-04,CON-0281,Nina Alvarez,2025-10-15
+CLB-0191,SCH-0096,Montclair Preparatory School Engineering Club 2025,Closed Lost,20,2026-11-27,CON-0282,Grace Owens,2025-12-27
+CLB-0192,SCH-0096,Montclair Preparatory School STEM Club 2026,Prospecting,32,2026-10-14,CON-0282,Grace Owens,2026-04-25
+CLB-0193,SCH-0096,Montclair Preparatory School Math Club 2024,Proposal,15,2026-10-11,CON-0283,Grace Owens,2024-11-10
+CLB-0194,SCH-0097,Cherry Hill Academy Engineering Club 2025,Qualification,12,2025-05-26,CON-0285,Nina Alvarez,2025-03-12
+CLB-0195,SCH-0098,Lincoln STEM Academy Robotics Club 2026,Closed Won,10,2027-01-05,CON-0286,Elena Novak,2026-02-21
+CLB-0196,SCH-0098,Lincoln STEM Academy Science Club 2025,Closed Lost,20,2026-09-23,CON-0286,Nina Alvarez,2025-07-08
+CLB-0197,SCH-0098,Lincoln STEM Academy Math Club 2025,Proposal,24,2025-10-14,CON-0287,Marcus Lee,2025-06-15
+CLB-0198,SCH-0098,Lincoln STEM Academy Engineering Club 2026,Negotiation,10,2026-06-17,CON-0287,Tom Becker,2026-05-20
+CLB-0199,SCH-0100,Martin Luther King Community School Robotics Club 2025,Qualification,45,2026-01-12,CON-0300,Priya Shah,2025-07-28
+CLB-0200,SCH-0100,Martin Luther King Community School STEM Club 2025,Prospecting,12,2026-09-12,CON-0299,Sam Patel,2025-04-10
